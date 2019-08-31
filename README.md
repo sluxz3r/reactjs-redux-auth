@@ -1,23 +1,31 @@
-## CRUD with ReactJs + Redux with Restfull API (NodeJs + Express)
+<h1 align='center'>CRUD with ReactJs + Redux with Restfull API (NodeJs + Express)</h1>
 
-[Demo](https://laughing-yalow-3dc305.netlify.com/)
+<p align='center'>Book Management (Lib App)</p>
 
-### Git Clone Server for BackEnd
-For the Server youu can Git Clone [it](https://github.com/sluxz3r/back-end.git) or [update](https://github.com/sluxz3r/week5-crud-NodeJs-Express.git)
+## Table of Contents
 
-### Create Database in MySql.
-Read on Backend Readme for Database Information
+- [Introduction](#introduction)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Usage](#usage-for-development)
+- [Screenshots](#screenshots)
+- [Release APK](#release-apk)
+- [Related Project](#related-project-backend)
 
-### Git Clone This [Git](https://github.com/sluxz3r/week5-crud-react-redux.git)
--npm install 
--npm start
+## Introduction
+Lib App is an app that help people to read some book of you want. You can Register as Member, if youre a guest you only can Donate Book and Read some information.
 
-## Thanks To Allah SWT.
-### My Bro. Bang [Tatas](https://github.com/tatasfachrul).
--arkademy-
-### Crafted With Love
+## Features
+* Donate Book
+* Borrow Book
+* And others
 
-### Screen Shoot
+## Requirements
+* [`npm`](https://www.npmjs.com/get-npm)
+* [`BookApp Apk`](https://github.com/sluxz3r/react-native-book.git)
+* [`BookApp RESTful API`](https://github.com/sluxz3r/backend-express-jwt.git)
+
+## Screenshots
 Home Page
 ![alt text](https://github.com/sluxz3r/week5-crud-react-redux/blob/master/src/assets/img/satu.png)
 
@@ -35,3 +43,6 @@ Edit Book
 
 Transaksi Peminjaman dan Pemulangan beserta Denda
 ![alt text](https://github.com/sluxz3r/week5-crud-react-redux/blob/master/src/assets/img/enam.png)
+
+
+Thanks to Mr.[Tatas](https://github.com/tatasfachrul) for help me to learn.
